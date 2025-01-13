@@ -1,6 +1,6 @@
-- 👋 Halo, I’m Shoesher
+-  Hello! I’m Shahriar
 -  Pronouns: he/him
-- ⚡ Fun fact: I like beans
+- ⚡ Fun fact: I enjoy developing games in my free time
 
 <!---
 Shoesher/Shoesher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
