@@ -1,4 +1,4 @@
-- Hello! I’m Shahriar
+- Hello, I’m Shahriar
 - I like building things
 
 <!---
